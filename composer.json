@@ -4,7 +4,6 @@
     "description": "Exiftool driver for PHP",
     "keywords": ["metadata","exiftool"],
     "license": "MIT",
-    ],
     "repositories": [
         {
             "type": "package",
