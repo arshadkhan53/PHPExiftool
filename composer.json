@@ -48,7 +48,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "*"
+            "dev-master": "upgrade-symfony-4"
         }
     }
 }
